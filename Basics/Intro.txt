@@ -1,0 +1,25 @@
+Web Development:
+    - create websites
+
+    1) HTML -> HyperText Markup Language    (Basic Structure of a Website)
+    2) CSS  -> Cascading Style Sheet        (Add Styling to that structure)
+    3) JS   -> JavaScript                   (Handles the Interactivity with that website)
+
+    i) Front-end Developer
+        - HTML
+        - CSS
+        - JS
+        - React (Framework of js)
+
+    ii) Back-end Developer
+            - Java / Spring
+            - Python / Django
+            - SQL <=> Databases
+
+    iii) Full-Stack Developer
+            - Front-end Developer
+            - Back-end Developer
+
+Q) What is HTML?
+-> A Markup Language which designs the core structure of any website.
+-> It has built-in tags which we can use to make the structure.
