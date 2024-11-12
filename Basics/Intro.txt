@@ -23,3 +23,50 @@ Web Development:
 Q) What is HTML?
 -> A Markup Language which designs the core structure of any website.
 -> It has built-in tags which we can use to make the structure.
+
+=> Use:
+- Create s structure of website/webpage.
+    - webpage :- single HTML file
+    - website :- Collection of multiple Webpages. (HTML Files)
+
+=> History of HTML:
+==> Tim Berners-Lee : (Computer scientist)
+
+-> First Time : HTML 1.0 -> 1991
+                HTML 1.1
+
+                HTML First Website : 1993
+                    - https://info.cern.ch/
+
+                
+                HTML 2.0 => 1995
+                HTML 2.1
+
+                HTML 3.0 => Jan, 1997
+
+                HTML 4.0 => Dec, 1997
+                          - 2000
+
+                HTML 5.0 => 2014
+                HTML 5.2 => 2017
+
+Extensions of HTML page:    1) .htm (old)
+                            2) .html (new)
+                            => Both are valid
+
+
+HTML: 
+	Hyper Text Markup Language
+	1) Hyper Text : Link(Depend on Text)
+		 - hyper : (re-direct / going up / hype )  Linking
+		 - Text  : normal Text/content
+	2) Markup Language :
+		- Text en-coding System
+		
+		
+HTML is not a Programming Language.it's Markup Language/Computer Language.
+=> what is Tag ?
+=> What is HTML ?
+=> What is Doctype ?
+=> HTML case sensitive or Not with Example ?
+=> Founder of HTML ?
